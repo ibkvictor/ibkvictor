@@ -1,4 +1,4 @@
-(https://github.com/ibkvictor/ibkvictor/blob/master/banner%20(1).png)
+![alt text](https://github.com/ibkvictor/ibkvictor/blob/master/banner1.png?raw=true)
 ### Hi there 👋
 
 I'm Victor Ezekiel. I'm a Artificial Intelligence / Robotics Engineer(In Training) 👨‍💻 who is building automated systems and self driving cars. I'm also interested in 🤖
