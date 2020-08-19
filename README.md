@@ -1,3 +1,4 @@
+(https://drive.google.com/file/d/1XA_NPey98UUObRVbhEjfH2LvXWsyasCQ/view?usp=sharing)
 ### Hi there 👋
 
 I'm Victor Ezekiel. I'm a Artificial Intelligence / Robotics Engineer(In Training) 👨‍💻 who is building automated systems and self driving cars. I'm also interested in 🤖
