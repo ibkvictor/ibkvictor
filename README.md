@@ -1,7 +1,7 @@
 ![alt text](https://github.com/ibkvictor/ibkvictor/blob/master/banner1.png?raw=true)
 ### Hi there 👋
 
-I'm Victor Ezekiel. I'm an aspiring Artificial Intelligence / Robotics Engineer 👨‍💻 who is building automated systems and self driving cars.
+I'm Victor Ezekiel. I'm an aspiring Artificial Intelligence / Robotics Engineer 👨‍💻 who loves to building automated systems and (hopefully) self driving cars.
 
 - 🔭 I’m currently working on a emotion detector in javascript
 - 🌱 I’m currently learning Machine Learning and Robotics
