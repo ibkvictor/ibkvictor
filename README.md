@@ -26,6 +26,6 @@ I'm Victor Ezekiel. I'm an aspiring Artificial Intelligence / Robotics Engineer 
 
 - 📫 How to reach me: https://twitter.com/victorezekielib or https://www.linkedin.com/in/victorezekiel
 
-[1.1]: [![Twitter Icon](http://i.imgur.com/tXSoThF.png)](https://twitter.com/victorezekielib)
-[2.1]: [![Linkedin](https://imgur.com/PXyIkWx.png)](https://linkedin.com/in/victorezekiel) 
-[6.1]: [![Github](http://i.imgur.com/0o48UoR.png)](https://github.com/ibkvictor) 
+[![Twitter Icon](https://imgur.com/WvF2vkt.png)](https://twitter.com/victorezekielib)
+[![Linkedin](https://imgur.com/PXyIkWx.png)](https://linkedin.com/in/victorezekiel) 
+[![Github](https://imgur.com/evWgFgB.png)](https://github.com/ibkvictor) 
