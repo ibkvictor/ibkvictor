@@ -25,6 +25,6 @@ I'm Victor Ezekiel. I'm an aspiring Artificial Intelligence / Robotics Engineer 
 - ⚡ I am use languages such as Python, and C++ to build robotics and AI projects with the hope of one data developing autonomous vehicles.
 
 - 📫 How to reach me: 
-[![Twitter](https://imgur.com/RyMAcpM.png)](https://twitter.com/victorezekielib)
+[![Twitter](https://imgur.com/XVWizm5.png)](https://twitter.com/victorezekielib)
 [![Linkedin](https://imgur.com/PXyIkWx.png)](https://linkedin.com/in/victorezekiel) 
 [![Github](https://imgur.com/evWgFgB.png)](https://github.com/ibkvictor) 
