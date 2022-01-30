@@ -22,7 +22,7 @@ I'm Victor Ezekiel. I'm an aspiring Artificial Intelligence / Robotics Engineer 
 
 - 🤖 I am mostly interested in nything related to robotics: autonomous navigaition, autonomous manipulation, and artificial intelligence. You can see this by following my pinned repos and the carreer path on [LinkedIn](https://www.linkedin.com/in/victorezekiel/). I have a B.Eng in Mechanical Engineering.
 
-- ⚡ I am use languages such as Python, and C++ to build robotics and AI projects with the hope of one data developing autonomous vehicles.
+- ⚡ I am use languages such as Python, and C++ to build robotics and AI projects with the hope of one day developing autonomous vehicles.
 
 - 📫 How to reach me: 
 [![Twitter](https://imgur.com/XVWizm5.png)](https://twitter.com/victorezekielib)
